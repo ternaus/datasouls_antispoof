@@ -28,7 +28,7 @@ Example:
 ```bash
 export IMAGE_PATH=<path to the folder with images>
 ```
-### Inference
+## Inference
 
 ```bash
 python -m torch.distributed.launch --nproc_per_node=<num_gpu> datasouls_antispoof/inference.py \
@@ -39,7 +39,7 @@ python -m torch.distributed.launch --nproc_per_node=<num_gpu> datasouls_antispoo
                                    --fp16
 ```
 
-### Pre-trained models
+## Pre-trained models
 
 | Models        | Validation accuracy | Config file  | Weights |
 | ------------- |:--------------------:| :------------:| :------: |
