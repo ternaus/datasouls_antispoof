@@ -1,6 +1,13 @@
 # Anti spoofing with the Datasouls dataset
 ![](https://habrastorage.org/webt/uv/7u/ws/uv7uwsjkcz732_vhf0opx3zfjrc.jpeg)
 
+## Installation
+`pip install -U datasouls_antispoof`
+
+### Example inference
+
+Colab notebook with the example: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HN0xmAUjfgVLccCV_QQ2Zg98WD9BZeNW?usp=sharing)
+
 ## Dataset
 
 [ID & RD anti spoofing challenge](https://ods.ai/competitions/idrnd-facial-antispoofing)
