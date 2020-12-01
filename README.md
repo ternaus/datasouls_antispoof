@@ -7,9 +7,9 @@
 
 Four types of images:
 * real
-* mask2d
-* printed
 * replay
+* printed
+* mask2d
 
 ## Training
 
