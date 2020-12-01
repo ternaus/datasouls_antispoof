@@ -1,0 +1,9 @@
+albumentations
+iglovikov_helper_functions
+opencv-python
+pytorch-lightning
+timm
+torch
+torchvision
+tqdm
+wandb
