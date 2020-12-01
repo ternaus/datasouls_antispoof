@@ -20,7 +20,7 @@ Example at [datasoluls_antispoof/configs](datasouls_antispoof/configs)
 Example:
 ```bash
 export IMAGE_PATH=<path to the folder with images>
-
+```
 ### Inference
 
 ```bash
