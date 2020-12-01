@@ -36,4 +36,4 @@ python -m torch.distributed.launch --nproc_per_node=<num_gpu> datasouls_antispoo
 
 | Models        | Validation accuracy | Config file  | Weights |
 | ------------- |:--------------------:| :------------:| :------: |
-| swsl_resnext50_32x4d | 0.9128 | [Link](datasouls_antispoof/configs/2020-11-30b.yaml) | [Link](https://github.com/ternaus/datasouls_antispoof/releases/download/0.0.1/2020-11-30b_resnext50_32x4d.zip) |
+| swsl_resnext50_32x4d | 0.9673 | [Link](datasouls_antispoof/configs/2020-11-30b.yaml) | [Link](https://github.com/ternaus/datasouls_antispoof/releases/download/0.0.1/2020-11-30b_resnext50_32x4d.zip) |
