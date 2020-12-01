@@ -11,11 +11,10 @@ from pytorch_lightning.callbacks import LearningRateMonitor
 from pytorch_lightning.loggers import WandbLogger
 from torch.utils.data import DataLoader
 
+from datasouls_antispoof.class_mapping import class_mapping
 from datasouls_antispoof.dataloaders import ClassificationDataset
 
 image_path = Path(os.environ["IMAGE_PATH"])
-
-class_mapping = {"real": 0, "replay": 1, "printed": 2, "2dmask": 3}
 
 
 def get_args():
